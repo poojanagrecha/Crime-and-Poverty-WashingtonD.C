@@ -9,10 +9,10 @@ The purpose of this analysis is to carefully examine and evaluate the impact of 
 Prior to merging the two datasets, we took some time to explore them individually. The poverty dataset had many columns breaking the Total Population up into ‘above’ or ‘below’ the poverty line and then into age segments to include < 6, 6-11, 12-17, 18-59, 60-74, 75-84, and 85+. Since we were under tight time constraints, we elected to simplify this down to Population Below the Poverty Line, Child Population Below the Poverty Line, and the Total Population; all of these were broken down into rows of the 179 Census Tracts.
 
 ![bottom10image](https://github.com/poojanagrecha/Crime-and-Poverty-WashingtonD.C/blob/master/Images/Percent%20Population%20Below%20Poverty%20Line%20by%20Census%20Tract%20-%20Bottom%2010.png)
--Percentage of Population Below Poverty Line by Census Tract- Bottom 10 
+- Percentage of Population Below Poverty Line by Census Tract- Bottom 10 
 
 ![top10image](https://github.com/poojanagrecha/Crime-and-Poverty-WashingtonD.C/blob/master/Images/Percent%20Population%20Below%20Poverty%20Line%20by%20Census%20Tract%20-%20Top%2010%20-%20Final.png)
--Percentage of Population Below Poverty Line by Census Tract- Top 10 
+- Percentage of Population Below Poverty Line by Census Tract- Top 10 
 
 ## Does a higher population affect total crime?
 
