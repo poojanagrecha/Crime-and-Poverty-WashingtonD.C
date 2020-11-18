@@ -7,6 +7,7 @@ The purpose of this analysis is to carefully examine and evaluate the impact of 
 ## Exploratory Data Analysis
 
 <b> Poverty Dataset </b>
+
 Prior to merging the two datasets, we took some time to explore them individually. The poverty dataset had many columns breaking the Total Population up into ‘above’ or ‘below’ the poverty line and then into age segments to include < 6, 6-11, 12-17, 18-59, 60-74, 75-84, and 85+. Since we were under tight time constraints, we elected to simplify this down to Population Below the Poverty Line, Child Population Below the Poverty Line, and the Total Population; all of these were broken down into rows of the 179 Census Tracts.
 
 ![bottom10image](https://github.com/poojanagrecha/Crime-and-Poverty-WashingtonD.C/blob/master/Images/Percent%20Population%20Below%20Poverty%20Line%20by%20Census%20Tract%20-%20Bottom%2010.png)
@@ -16,6 +17,7 @@ Prior to merging the two datasets, we took some time to explore them individuall
 - Percentage of Population Below Poverty Line by Census Tract- Top 10 
 
 <b> Crime Dataset </b>
+
 The distribution of crime over time is mostly even over week, month, and year. There is significant variation in the hour of the day. Theft/Auto and Theft/Other had the widest range over they year. 
 
 ![crimeovertime](https://github.com/poojanagrecha/Crime-and-Poverty-WashingtonD.C/blob/master/Images/Various%20Types%20of%20Crime%20over%20Time.png)
